@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChuJiaWen
-- 👀 I’m interested in Computer Engineering
-- 🌱 I’m currently learning CS in BU
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently a master student in CS at Comlumbia University
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Email me at sab1025@bu.edu
+- 📫 How to reach me: Email me at chu.jiawen@columbia.edu
 
 <!---
 ChuJiaWen/ChuJiaWen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
