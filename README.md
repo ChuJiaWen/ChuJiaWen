@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChuJiaWen
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently a master student in CS at Comlumbia University
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email me at chu.jiawen@columbia.edu
 
 <!---
